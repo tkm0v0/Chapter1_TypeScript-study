@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=ZDs1ddN2ag0
 # ViteでReact環境を作る
 ```
 % npm create vite@latest
-%  cd sample-vite
+% cd sample-vite
 % npm i 
 % npm run dev
 ```
